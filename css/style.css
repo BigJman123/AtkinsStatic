@@ -1,0 +1,165 @@
+body {
+	background-color: hsla(120, 10%, 92%, 1) !important;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+.header-div {
+	background: linear-gradient(0deg, hsl(120, 100%, 20%), hsl(120, 40%, 46%));
+}
+
+.yellow {
+	background: linear-gradient(0deg, hsl(57, 100%, 50%), hsl(57, 80%, 50%));
+}
+
+@media(max-width: 456px) {
+	
+	/* Index Page */
+	.logo-small {
+		width: 150px !important;
+	}
+
+	.link-small {
+		width: 30px !important;
+	}
+	
+	.link-small-font {
+		font-size: 12px !important;
+	}
+
+	.small-margins {
+		margin-bottom: 0px !important;
+	}
+	
+	.small-caption {
+		font-size: 20px !important;
+	}
+
+	.original-padding-none {
+		padding-top: 0px !important;
+		padding-bottom: 0px !important;
+	}
+
+	.mobile-padding {
+		padding-top: 15px !important;
+		padding-bottom: 15px !important;
+	}
+
+	.mobile-padding-bottom {
+		padding-bottom: 50px !important;
+	}
+
+	.mobile-font-size {
+		font-size: 15px !important;
+	}
+	
+	/* Employee Page */
+	.employee-mobile-padding {
+		padding-top: 50px !important;
+		padding-bottom: 50px !important;
+	}
+	
+	.employee-mobile-margins {
+		/* margin-top: 25px; */
+		margin-bottom: 25px;
+	}
+	
+	/* Precision Planting Page */
+
+	.logo-container-padding-mobile {
+		padding-top: 50px !important;
+	}
+	
+	.precision-planting-logo-mobile-size {
+		width: 325px !important;
+	}
+
+	/* Pioneer Page */
+	.pioneer-planting-logo-mobile-size {
+		width: 325px !important;
+	}
+
+	.pioneer-description-padding-mobile {
+		padding-top: 25px !important;
+	}
+
+	/* Farming Page */
+	.farming-header-padding-mobile {
+		padding-top: 25px !important;
+		padding-bottom: 15px !important;
+	}
+
+	.farming-email-padding-mobile {
+		padding-top: 100px !important;
+	}
+
+	.farming-phone-padding-mobile {
+		padding-bottom: 50px !important;
+	}
+
+	.farming-phone-padding-top-fmobile {
+		padding-top: 50px !important;
+		padding-bottom: 50px !important;
+	}
+
+	.farming-title-font-size {
+		font-size: 25px !important;
+	}
+
+	.farming-font-size {
+		font-size: 20px !important;
+	}
+
+	.farming-image-opacity {
+		opacity: 1 !important;
+	}
+
+	.farming-info-mobile-bottom-padding {
+		padding-bottom: 15px !important;
+	}
+	
+	.farming-info-mobile-top-padding {
+		padding-top: 15px !important;
+	}
+
+
+	/* Contact Page */
+
+	.mobile-padding {
+		padding-top: 25px !important;
+	}
+
+	.form-mobile-width {
+		width: 300px !important;
+	}
+
+	.margin-mobile {
+		margin-left: 5px !important;
+	}
+
+	/* Footer */
+	.footer-nav-font-size {
+		font-size: 12px !important;
+	}
+
+	.mobile-margin-footer-right {
+		margin-right: 10px !important;
+	}
+	
+	.mobile-margin-footer-left {
+		margin-left: 10px !important;
+	}
+}
+
+.color:active {
+	background: linear-gradient(0deg, hsl(120, 100%, 20%), hsl(120, 40%, 46%));
+}
+
+.footer-bgcolor {
+	background-color: hsla(120, 10%, 85%, 1) !important;
+}
+
+.footer-color:hover {
+	color: #666666 !important;
+}
+
